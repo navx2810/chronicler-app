@@ -1,0 +1,11 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/asvetliakov/typings-radium/d784cae404b6cdf5fbf7fbef65345b1ee7d52bf8/typings.json",
+    "raw": "registry:npm/radium#0.16.6+20160310030142",
+    "main": "index.d.ts",
+    "global": false,
+    "name": "radium",
+    "type": "typings"
+  }
+}

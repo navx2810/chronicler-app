@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700",
+    "node-uuid": "registry:npm/node-uuid#1.4.7+20160723033700",
+    "radium": "registry:npm/radium#0.16.6+20160310030142",
+    "react": "registry:npm/react#15.0.1+20160601175240",
+    "react-dom": "registry:npm/react-dom#15.0.1+20160705210405"
+  }
+}
